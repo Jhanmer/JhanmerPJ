@@ -5,4 +5,4 @@ Primera aplicacion
 
 
 
-Copyr Janmer
+Copyrigth Jhanmer
